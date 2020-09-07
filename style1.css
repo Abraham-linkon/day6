@@ -1,0 +1,33 @@
+* {margin:0;padding:0;}
+.body{background:#ddd;}
+
+.all{width:1000px;margin:0 auto;padding:20px;}
+.coverpic {}
+.coverpic img {width:100%;}
+
+
+
+.menubar{background:blue;}
+.menubar ul {list-style:none;}
+.menubar ul li {display:inline-block;}
+.menubar ul li a {text-decoration:none;transition:.5s;border-left:1px solid white;padding:5px;display:block;font-size:30px;text-transform:uppercase;font-family:monospace;color:white;}
+.menubar ul li a:hover{padding-left:30px;color:green;background:white;}
+
+
+
+.allcontent{padding:10px;margin:10px;overflow:hidden;float:left;}
+.sidemenu{}
+.widget{}
+.widget h2{background:red;
+		padding:5px;
+		color: #fff;
+		text-transform: uppercase;
+		font-family: monospace;
+		}
+.widget ul{list-style:none;background:gray;}
+.widget ul li{border-bottom:1px splid white;}
+.widget ul li a{border-bottom:1px splid white;text-decoration:none;transition:.5s;border-left:1px solid white;padding:5px;display:block;font-size:30px;text-transform:uppercase;font-family:monospace;color:pink;}
+.widget ul li a:hover{padding-left:30px;color:green;background:white;}
+
+
+.content{padding:15px 0px}
